@@ -13,5 +13,6 @@ int main()
 	}
 		cout << "Сумма элементов кратных 3= " << sum << endl;
   cout<<"new commit"<<"\nBranch_1"<<"\nBranch_2"<<endl;
+  cout<<"Bad commit";
 		return 0;
 }
